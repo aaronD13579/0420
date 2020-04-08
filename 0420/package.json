@@ -1,0 +1,14 @@
+{
+ "name": "sensordata",
+ "version": "1.0.0",
+ "description": "",
+ "main": "sensordata.js",
+ "scripts": {
+   "test": "echo"
+ },
+ "author": "API akamai",
+ "license": "akamai",
+ "dependencies": {
+   "express": "4.17.1"
+ }
+}
